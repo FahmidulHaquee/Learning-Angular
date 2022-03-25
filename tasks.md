@@ -25,7 +25,7 @@ Angular provides CLI to create connections between components.
 
 CLI: A set of tools accessed via the terminal. Mainly used to scaffold an application. This means creating an app with common settings quickly.
 
-Angular CLI is highly opinionated, so the basic scaffolding command is going to set up
+Angular CLI is highly opinionated, so the basic scaffolding command is going to set up a lot of folders and configuration files.
 
 ### Main CLI Commands
 
